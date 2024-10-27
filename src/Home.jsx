@@ -84,6 +84,11 @@ const Home = () => {
           <li className='navitem'>About</li>
           <li className='navitem'>Contact</li>
         </div>
+        <div className='menu-icon'>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
       </nav>
       <section className='search-bar'>
         <input
