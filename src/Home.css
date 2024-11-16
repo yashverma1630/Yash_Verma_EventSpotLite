@@ -73,6 +73,7 @@ body{
 }
 
 .EventDiv{
+    margin-top:10px;
     height:44rem;
     width: 100%;
     overflow: auto;
@@ -133,12 +134,14 @@ body{
     background-size:cover;
 }
 .card-image5{
-    background-image: url(https://yt3.googleusercontent.com/XVVi44_WFTkdPXYorOffTEJ51xPacaBdx_-peDEao52ZHF8DdfuJz76IZLQI3hNwulwnHrBHIQ=s900-c-k-c0x00ffffff-no-rj);
+    background-image: url(https://st1.bollywoodlife.com/wp-content/uploads/2022/05/The-Kapil-Sharma-Show.png?impolicy=Medium_Widthonly&w=412&h=290);
     height:14.5rem;
     width:17rem;
     border-top-left-radius:7px;
     border-top-right-radius:7px;
     background-size:cover;
+    background-repeat: no-repeat;
+    object-fit: fill;
 }
 .card-image6{
     background-image: url(https://static.india.com/wp-content/uploads/2023/01/Anubhav-Singh-Bassi.jpg);
